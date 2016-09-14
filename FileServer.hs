@@ -1,4 +1,4 @@
-#!/usr/bin/env stack
+-- #!/usr/bin/env stack
 {- stack
     --resolver lts-6.11
     --install-ghc
