@@ -10,7 +10,7 @@
  -}
 
 -- The code above is used for Haskell Stack's script interpreter
--- feature. For more information, see:
+-- feature. To use it, uncomment the first string. For more information, see:
 -- https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter
 --
 -- Note how we explicitly list an LTS Haskell snapshot
